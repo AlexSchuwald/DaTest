@@ -1,5 +1,5 @@
 from django.shortcuts import render
-
+from markdown2 import markdown
 from . import util
 
 
